@@ -1,4 +1,4 @@
-package com.AOL.dto;
+package com.Myrestdemo.dto;
 
 public class RegisterDTO {
 

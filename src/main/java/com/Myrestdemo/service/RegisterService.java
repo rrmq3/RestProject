@@ -1,4 +1,4 @@
-package com.AOL.service;
+package com.Myrestdemo.service;
 
 import org.apache.commons.io.IOUtils;
 import org.apache.commons.lang.StringUtils;
@@ -12,8 +12,8 @@ import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClients;
 import org.springframework.stereotype.Service;
 
-import com.AOL.dto.RegisterDTO;
-import com.AOL.dto.StatusDTO;
+import com.Myrestdemo.dto.RegisterDTO;
+import com.Myrestdemo.dto.StatusDTO;
 
 @Service
 public class RegisterService {

@@ -1,4 +1,4 @@
-package com.AOL.controller;
+package com.Myrestdemo.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -8,9 +8,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.AOL.dto.RegisterDTO;
-import com.AOL.dto.StatusDTO;
-import com.AOL.service.RegisterService;
+import com.Myrestdemo.dto.RegisterDTO;
+import com.Myrestdemo.dto.StatusDTO;
+import com.Myrestdemo.service.RegisterService;
 
 @RestController
 public class RegisterController {

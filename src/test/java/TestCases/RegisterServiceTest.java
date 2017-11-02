@@ -6,9 +6,9 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.AOL.dto.RegisterDTO;
-import com.AOL.dto.StatusDTO;
-import com.AOL.service.RegisterService;
+import com.Myrestdemo.dto.RegisterDTO;
+import com.Myrestdemo.dto.StatusDTO;
+import com.Myrestdemo.service.RegisterService;
 
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
